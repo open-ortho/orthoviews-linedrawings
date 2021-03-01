@@ -12,7 +12,7 @@
     <img src="https://raw.githubusercontent.com/open-ortho/dicom4ortho/master/images/open-ortho.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">linedrawings-orthoview 1.0.0</h3>
+  <h3 align="center">orthoviews-linedrawings 1.0.0</h3>
 
   <p align="center">
 A set of linedrawings to be used as sample data for orthodontic views.
@@ -62,7 +62,7 @@ No installation is required. You can download the images by cloning this reposit
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/open-ortho/dicom4ortho/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/open-ortho/orthoviews-linedrawings/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -87,7 +87,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 Toni Magni- [@zgypa](https://twitter.com/zgypa) - open-ortho@afm.co
 
-Project Link: [https://github.com/open-ortho/linedrawing-views](https://github.com/open-ortho/linedrawing-views)
+Project Link: [https://github.com/open-ortho/orthoviews-linedrawings](https://github.com/open-ortho/orthoviews-linedrawings)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -96,16 +96,16 @@ Project Link: [https://github.com/open-ortho/linedrawing-views](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/open-ortho/dicom4ortho.svg?style=for-the-badge
-[contributors-url]: https://github.com/open-ortho/linedrawing-views/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/open-ortho/linedrawing-views.svg?style=for-the-badge
-[forks-url]: https://github.com/open-ortho/linedrawing-views/network/members
-[stars-shield]: https://img.shields.io/github/stars/open-ortho/dicom4ortho.svg?style=for-the-badge
-[stars-url]: https://github.com/open-ortho/dicom4ortho/stargazers
-[issues-shield]: https://img.shields.io/github/issues/open-ortho/dicom4ortho.svg?style=for-the-badge
-[issues-url]: https://github.com/open-ortho/dicom4ortho/issues
-[license-shield]: https://img.shields.io/github/license/open-ortho/dicom4ortho.svg?style=for-the-badge
-[license-url]: https://github.com/open-ortho/dicom4ortho/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/open-ortho/orthoviews-linedrawings.svg?style=for-the-badge
+[contributors-url]: https://github.com/open-ortho/orthoviews-linedrawings/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/open-ortho/orthoviews-linedrawings.svg?style=for-the-badge
+[forks-url]: https://github.com/open-ortho/orthoviews-linedrawings/network/members
+[stars-shield]: https://img.shields.io/github/stars/open-ortho/orthoviews-linedrawings.svg?style=for-the-badge
+[stars-url]: https://github.com/open-ortho/orthoviews-linedrawings/stargazers
+[issues-shield]: https://img.shields.io/github/issues/open-ortho/orthoviews-linedrawings.svg?style=for-the-badge
+[issues-url]: https://github.com/open-ortho/orthoviews-linedrawings/issues
+[license-shield]: https://img.shields.io/github/license/open-ortho/orthoviews-linedrawings.svg?style=for-the-badge
+[license-url]: https://github.com/open-ortho/orthoviews-linedrawings/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/open-ortho
 [product-screenshot]: images/screenshot.png
