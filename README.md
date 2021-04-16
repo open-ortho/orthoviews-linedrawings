@@ -1,3 +1,5 @@
+# orthoviews-linedrawings 1.0.0
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -21,14 +23,15 @@ A set of linedrawings to be used as sample data for orthodontic views.
 </p>
 
 <!-- TABLE OF CONTENTS -->
-- [About The Project](#about-the-project)
-- [Getting Started](#getting-started)
-- [Usage Examples](#usage-examples)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [orthoviews-linedrawings 1.0.0](#orthoviews-linedrawings-100)
+  - [About The Project](#about-the-project)
+  - [Getting Started](#getting-started)
+  - [Usage Examples](#usage-examples)
+  - [Roadmap](#roadmap)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
+  - [Acknowledgements](#acknowledgements)
 
 
 <!-- ABOUT THE PROJECT -->
@@ -44,6 +47,11 @@ These drawings, however, may be useful for developers. For example, they
 could be used as placeholders for images in their user interface, in order to
 facilitate the enduser in identifying which specific photograph needs to be
 uploaded.
+
+These drawings are officially part of the Whitepaper 1100 of the American
+Dental Association Standards Committee for Dental Informatics available (free
+for ADA members) at the [ADA
+Catalog](https://www.ada.org/en/publications/ada-catalog).
 
 <!-- GETTING STARTED -->
 ## Getting Started
