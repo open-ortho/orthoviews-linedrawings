@@ -63,8 +63,10 @@ No installation is required. You can download the images by cloning this reposit
 <!-- USAGE EXAMPLES -->
 ## Usage Examples
 
-- Placeholders in User Interface
-- Sample data for unit tests
+- Placeholders in User Interface.
+- Constructing schematic representation for prescribing or ordering
+orthodontic records.
+- Sample data for unit tests.
 
 
 <!-- ROADMAP -->
