@@ -64,7 +64,7 @@ No installation is required. You can download the images by cloning this reposit
 ## Usage Examples
 
 - Placeholders in User Interface.
-- Constructing schematic representation for prescribing or ordering
+- Constructing schematic representations for prescribing or ordering
 orthodontic records.
 - Sample data for unit tests.
 
